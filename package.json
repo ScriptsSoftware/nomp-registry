@@ -1,0 +1,20 @@
+{
+  "name": "nompjs",
+  "version": "1.0.2",
+  "description": "A simple Node.js package manager",
+  "main": "nomp.js",
+  "bin": {
+    "nomp": "./nomp.js"
+  },
+  "scripts": {},
+  "keywords": [
+    "package",
+    "manager",
+    "node"
+  ],
+  "author": "ScriptsSoftware lnc.",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
